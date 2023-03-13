@@ -1,3 +1,2 @@
 #!/bin/bash
-touch \\\*\\\\\'"Best School"\\\'\\\\\*\$\\\?\\\*\\\*\\\*\\\*\\\*\:\)
-echo "Please edit me"
+echo "Best School" > \\\*\\\\"'\"Best School\"\\'"\\\\\*\$\\\?\\\*\\\*\\\*\\\*\\\*\:\)
